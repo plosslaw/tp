@@ -1,5 +1,5 @@
 title: "McScheduler"
-theme: minima
+theme: jekyll-theme-hacker
 
 header_pages:
   - UserGuide.md
